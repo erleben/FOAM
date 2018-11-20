@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+pyFOAM/.idea/modules.xml
+pyFOAM/.idea/pyFOAM.iml
+pyFOAM/.idea/workspace.xml
